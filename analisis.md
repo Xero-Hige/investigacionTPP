@@ -1,5 +1,6 @@
-# Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis
+### Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis
 
+#### Resumen
 El paper va de como la clasificacion polar de una frase utilizando lexicones tiende a carecer
 de informacion necesaria como para poder clasificarla objetivamente. La propuesta del mismo es
 introducir otro tipo de marcado denominado polaridad contextual. 
